@@ -19,5 +19,5 @@ glut32.lib
 Models
 ======
 
-Add the .mtl files in the project's folder.
+Add the .mtl and the .obj files in the project's folder.
 If you create your own, the scaling might need some tweaking.
